@@ -1,0 +1,10 @@
+about-me.txt
+Name: Sabikun Nahar Sonia
+
+Program: BSc in CSE
+
+Semester: 1st Semester
+
+Interests:
+1. Artificial Intelligence
+2. Mathematics
